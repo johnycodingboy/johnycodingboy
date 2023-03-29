@@ -8,7 +8,7 @@
 
 Hi, I'm Johny. You might recognize me as GitHub's mascot.
 
-| Rank | THING-TO-RANK |
+| Rank | Hobbies |
 |-----:|---------------|
 |     1|               |
 |     2|               |
