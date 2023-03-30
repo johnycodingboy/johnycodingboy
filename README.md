@@ -9,13 +9,19 @@
 Hi, I'm Johny. You might recognize me as GitHub's mascot.
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>My top THINGS-TO-RANK</summary> 
+  
 | Rank | Hobbies |
 |-----:|---------------|
 |     1|               |
 |     2|               |
 |     3|               |
-</details>  
+</details>
+
+---
+>hej hej
+
+- normal text
   
 <!--
 **johnycodingboy/johnycodingboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
